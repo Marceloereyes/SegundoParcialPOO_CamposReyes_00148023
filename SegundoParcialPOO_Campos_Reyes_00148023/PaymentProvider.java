@@ -18,7 +18,8 @@ public class PaymentProvider {
     }
 
     public String getUsername() {
-        throw new UnsupportedOperationException("Unimplemented method 'getUsername'");
+
+        return "";
     }
 }
 

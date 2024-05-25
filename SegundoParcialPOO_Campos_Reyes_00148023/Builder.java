@@ -1,8 +1,8 @@
 package SegundoParcialPOO_Campos_Reyes_00148023;
 
 public interface Builder {
-    void reset();
-    void buildStepA();
-    void buildStepB();
-    void buildStepZ();
+    public void reset();
+    public void buildStepA();
+    public void buildStepB();
+    public void buildStepZ();
 }
